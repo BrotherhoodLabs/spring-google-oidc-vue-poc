@@ -1,0 +1,17 @@
+# <type>(<scope>): <subject>
+#
+# <body>
+#
+# <footer>
+
+# Type: feat, fix, docs, style, refactor, test, chore
+# Scope: backend, frontend, docs, infra, ci
+# Subject: 50 chars max, imperative mood, no period
+# Body: 72 chars per line, explain what and why
+# Footer: breaking changes, issues closed
+
+# Examples:
+# feat(backend): add OAuth2 Resource Server configuration
+# fix(frontend): resolve CORS configuration issue
+# docs(readme): update installation instructions
+# chore(deps): update Spring Boot to 3.3.1
